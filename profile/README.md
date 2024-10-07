@@ -1,0 +1,180 @@
+# **ANG-RD GitHub 개요**
+
+모든 리포지토리는 **Topic**으로 분류되어 관리됩니다. 각 Topic 아래에 코드, 문서, 그리고 다양한 컴포넌트들이 체계적으로 정리되어 있습니다.
+
+---
+
+## **Topic**
+
+### **ADIS** 🔵
+- **Component** 🟢
+  - TMAngularMeter
+  - TMButtonCommand
+  - TMDataView
+  - TMEditDataDecimal
+  - TMGgaugeLinear
+  - TMLabelDataDecimal
+  - TMLabelLED
+  - TMLabelLEDButton
+  - TMMultiColorBar
+  - TMMultiPlot
+  - TMPictureBox
+  - TMTextBox
+- **Device** 🟡
+  - BeckHoffPLCDevDll
+  - CQNX
+  - PowerAnalyzer
+  - VirtualDevDll
+  - AdamSerLib
+  - CrevisModbusTCPDll
+  - DDEClientDll
+  - FEnetMultiTCPDll
+  - MelsecA1EAsciiTCPDll
+  - MelsecMultiTCPDll
+  - PeakMultiLINDll
+  - PulseCountSerDll
+  - NIMultiDAQDll
+  - NIXNetChannelDll
+  - NIXNetMultiCANFDDll
+  - NIXNetMultiLINDll
+  - OPCClientDll
+  - S7MultiTCPDll
+  - SerialDeivceLib
+  - SiemensMultiTCPDll
+  - SiemensVariableTCPDll
+  - URModbusTCPDll
+  - XGTFEnetTCPDll
+  - PeakMultiCANDll
+  - ModbusMultiSerDll
+  - ModbusMultiTCPDll
+- **ETC** 🟣
+  - FileRunMonitoring
+  - FtpClientSample
+  - GlobalDataSave
+  - TMTestGlobal
+  - TMTestStarter
+  - UserSequenceManager
+  - VI
+  - DynoSetup
+  - ADIS Program
+  - FTPFileManager
+  - ABEnetPDII
+  - ABxMultiComDll
+  - BarcodeSerLib
+  - BaslerDll
+  - CommViewer
+  - DataSocketDll
+  - EvaluationEngine
+  - KeyLockSerLib
+  - MemoryMapDll
+  - MultiPIDControlDll
+  - MultiTCPSerDll
+  - NIReadDAQDll
+  - NIXNetFrameDll
+  - TidyReport
+  - VoiceRecognitionDll
+  - VoiceSpeakDll
+  - XMultiPlot
+  - ZebraTCPLib
+
+---
+
+### **UTS** 🔵
+- **Utility** 🟢
+  - MPC
+  - Mx Component 5x
+  - NI DAQmx
+- **Device** 🟡
+  - ABOPCDLL
+  - C2024
+  - ETBDEV_NI
+  - ETBDEV_NI_176
+  - EtbMesSetup
+  - FnIOModbusTCPDLL
+  - High Speed Data Socket
+  - MelsecPLC_UTL
+  - MelsecPLC_UTL_Direct
+  - NIDEVM
+  - NIDEVM_SCRIPT
+  - NI-XENT CANDB(CANFD)
+  - TcpSocket_Vibration_Client
+  - DAQDeviceSetup
+  - TcpSocket_Melsec
+  - TcpSocket_Melsec_UTL
+  - SiemensPLC
+- **Database** 🟠
+  - DataControlProgram
+  - DBI.dll
+  - DBI_DCT.dll
+  - DBI_Lite.dll
+  - DB Tool for UTS
+  - HIPIS Data Conversion
+  - HIPIS4COLD
+  - HIPIS4HOT
+  - UTS2DB4HIPIS
+  - DataViewerProgram
+  - DataViewer_Lite
+  - OldDataMoveProgram
+- **DAQ** 🟢
+- **Composition** 🟣
+  - ChlSET
+  - CSEditor
+  - ETBDB
+  - ETBEX
+  - ETBVAL
+  - ExeProject
+  - FileProject
+  - IProjectAcess
+  - LogMsg
+  - ParSET
+  - PROCC
+  - PROCV
+  - Project
+  - ScreenLoader
+  - StringList
+  - UTS.Common
+  - UTSEditor
+  - CShareMemory
+  - AlarmControl(AlarmManager)
+  - UTSLib
+- **Component** 🟢
+  - UTS_AlarmConfig
+  - UTS_Button
+  - UTS_ComboBox
+  - UTS_ComboBox2
+  - UTS_ControlOut_V
+  - UTS_DisplayDouble
+  - UTS_DisplayString_Value
+  - UTS_EDTDataView1
+  - UTS_EDTDataView2
+  - UTS_EDTDataView3
+  - UTS_GaugeAngular2
+  - UTS_GaugeLinear
+  - UTS_Label
+  - UTS_LED
+  - UTS_LEDArrow
+  - UTS_ListView
+  - UTS_MemoryView
+  - UTS_MultiPlot
+  - UTS_Panel
+  - UTS_PictureBox
+  - UTS_PlotTrace_IOC
+  - UTS_PlotXY_IOC
+  - UTS_ProfileControl
+  - UTS_TextBox
+  - UTS_TextBoxDouble
+- **ETC** 🟣
+  - DataSave4AVL
+  - EventDataViewer
+  - QCANDB
+  - UserSequenceManager
+  - AlarmViewer
+  - GenerateLicenseFile
+  - TestStartEditor
+  - OpenFileDialogExt
+  - SaveFileDialogExt
+  - Test4ETBEVAL
+
+---
+
+이 개요는 **ANG-RD GitHub**에서 각 리포지토리를 명확히 이해하고 관리할 수 있도록 돕습니다.
