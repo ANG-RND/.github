@@ -6,8 +6,8 @@
 
 ## **Topic**
 
-### **ADIS** 🔵
-- **Component** 🟢
+### [**ADIS** 🔵](https://github.com/search?q=topic:ADIS)
+- [**Component** 🟢](https://github.com/search?q=topic:ADIS+component)
   - TMAngularMeter
   - TMButtonCommand
   - TMDataView
@@ -20,7 +20,7 @@
   - TMMultiPlot
   - TMPictureBox
   - TMTextBox
-- **Device** 🟡
+- [**Device** 🟡](https://github.com/search?q=topic:ADIS+device)
   - BeckHoffPLCDevDll
   - CQNX
   - PowerAnalyzer
@@ -47,7 +47,7 @@
   - PeakMultiCANDll
   - ModbusMultiSerDll
   - ModbusMultiTCPDll
-- **ETC** 🟣
+- [**ETC** 🟣](https://github.com/search?q=topic:ADIS+etc)
   - FileRunMonitoring
   - FtpClientSample
   - GlobalDataSave
@@ -79,12 +79,12 @@
 
 ---
 
-### **UTS** 🔵
-- **Utility** 🟢
+### [**UTS** 🔵](https://github.com/search?q=topic:UTS)
+- [**Utility** 🟢](https://github.com/search?q=topic:UTS+utility)
   - MPC
   - Mx Component 5x
   - NI DAQmx
-- **Device** 🟡
+- [**Device** 🟡](https://github.com/search?q=topic:UTS+device)
   - ABOPCDLL
   - C2024
   - ETBDEV_NI
@@ -102,7 +102,7 @@
   - TcpSocket_Melsec
   - TcpSocket_Melsec_UTL
   - SiemensPLC
-- **Database** 🟠
+- [**Database** 🟠](https://github.com/search?q=topic:UTS+database)
   - DataControlProgram
   - DBI.dll
   - DBI_DCT.dll
@@ -115,8 +115,7 @@
   - DataViewerProgram
   - DataViewer_Lite
   - OldDataMoveProgram
-- **DAQ** 🟢
-- **Composition** 🟣
+- [**Composition** 🟣](https://github.com/search?q=topic:UTS+composition)
   - ChlSET
   - CSEditor
   - ETBDB
@@ -137,7 +136,7 @@
   - CShareMemory
   - AlarmControl(AlarmManager)
   - UTSLib
-- **Component** 🟢
+- [**Component** 🟢](https://github.com/search?q=topic:UTS+component)
   - UTS_AlarmConfig
   - UTS_Button
   - UTS_ComboBox
@@ -163,7 +162,7 @@
   - UTS_ProfileControl
   - UTS_TextBox
   - UTS_TextBoxDouble
-- **ETC** 🟣
+- [**ETC** 🟣](https://github.com/search?q=topic:UTS+etc)
   - DataSave4AVL
   - EventDataViewer
   - QCANDB
@@ -174,7 +173,3 @@
   - OpenFileDialogExt
   - SaveFileDialogExt
   - Test4ETBEVAL
-
----
-
-이 개요는 **ANG-RD GitHub**에서 각 리포지토리를 명확히 이해하고 관리할 수 있도록 돕습니다.
